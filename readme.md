@@ -9,3 +9,7 @@ install vs buildtools
 install FFmpeg https://ffmpeg.org/download.html
 
 go to surgery_detective repository and ru pip install -r requirements.txt in command line
+
+fill in ur BOT_TOKEN in .env file
+
+run pyhon bot.py
